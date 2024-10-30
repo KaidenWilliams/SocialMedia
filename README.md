@@ -1,2 +1,2 @@
 # SocialMedia
-Personal .net project
+Asp.Net MVC Project
